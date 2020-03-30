@@ -1,2 +1,1 @@
-# 2020
-Hey everyone, I'm a high schooler making a web browser app that donates 100% of its ad revenue to charity. I've been working really hard for a year, but I feel that if this going to be truly amazing, we need work together as a community to be amazing together. and make an open sourced app. Of course everyone who contributes will be given credit on the app and I will receive no profits. I truly believe we can change the World, but only as a community. 
+
